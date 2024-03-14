@@ -2,10 +2,10 @@ apiVersion: v1
 entries:
   myapp:
   - apiVersion: v2
-    created: "2024-03-14T05:19:06.782251337Z"
-    digest: d29a328d0268db239796e55d3ae6d2504b3eb999eac6d9ae1d36b07ebc6442e2
+    created: "2024-03-14T05:23:16.139689809Z"
+    digest: 4505e153b47fbed79abffaf0d0b837de56c6eeee7303fad1088b1e255e7b6393
     name: myapp
     urls:
     - https://powerstar13.github.io/helm-charts-repo/myapp-0.1.0.tgz
     version: 0.1.0
-generated: "2024-03-14T05:19:06.781918293Z"
+generated: "2024-03-14T05:23:16.139286415Z"
